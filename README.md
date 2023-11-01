@@ -1,4 +1,4 @@
-## Welcome to the month of **November**
+## Welcome to the month of **NOVEMBER**
 ### I guess you are off to a _great start!_
 
 <!--
