@@ -1,4 +1,5 @@
-### Hi there 👋
+## Welcome to the month of **November**
+### I guess you are off to a _great start!_
 
 <!--
 **pjbabalola/pjbabalola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
